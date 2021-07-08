@@ -1,0 +1,31 @@
+2021-07-08 08:33:05 INFO  ManagementUI:40 - Đọc file json
+2021-07-08 08:33:17 INFO  ManagementUI:189 - click vào roll 5 Mercedes-Benz den 16.8
+2021-07-08 08:33:19 INFO  ManagementUI:189 - click vào Land  v1 BMW xanh 21.0
+2021-07-08 08:44:45 INFO  ManagementUI:40 - Đọc file json
+2021-07-08 09:00:24 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:01:20 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:04:34 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:08:33 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:12:08 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:12:28 INFO  ManagementUI:190 - click vào Pors v2 Porsche do 34.0
+2021-07-08 09:12:29 INFO  ManagementUI:190 - click vào bmv8 BMW do 16.8
+2021-07-08 09:12:29 INFO  ManagementUI:190 - click vào au5 Audi do 22.0
+2021-07-08 09:12:31 INFO  ManagementUI:67 - Thêm một item vào danh sách
+2021-07-08 09:12:31 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:12:33 INFO  ManagementUI:190 - click vào au5 Audi den 21.0
+2021-07-08 09:12:34 INFO  ManagementUI:67 - Thêm một item vào danh sách
+2021-07-08 09:12:34 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:12:36 INFO  ManagementUI:190 - click vào au5 Audi den 21.0
+2021-07-08 09:12:37 INFO  ManagementUI:102 - Xóa một item
+2021-07-08 09:12:37 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:16:01 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:16:06 INFO  ManagementUI:190 - click vào roll 5 Mercedes-Benz den 16.8
+2021-07-08 09:16:07 INFO  ManagementUI:190 - click vào au5 Audi den 21.0
+2021-07-08 09:16:07 INFO  ManagementUI:190 - click vào Pors v2 Porsche do 34.0
+2021-07-08 09:16:11 INFO  ManagementUI:190 - click vào au5 Audi do 22.0
+2021-07-08 09:16:13 INFO  ManagementUI:102 - Xóa một item
+2021-07-08 09:16:13 INFO  ManagementUI:41 - Đọc file json
+2021-07-08 09:49:02 INFO  ManagementUI:190 - click vào bmv8 BMW do 16.8
+2021-07-08 09:49:04 INFO  ManagementUI:134 - Tìm kiếm xe theo hãng
+2021-07-08 09:49:08 INFO  ManagementUI:134 - Tìm kiếm xe theo hãng
+2021-07-08 09:49:15 INFO  ManagementUI:134 - Tìm kiếm xe theo hãng
